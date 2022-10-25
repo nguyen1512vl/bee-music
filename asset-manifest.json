@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bee-music/static/css/main.3ab351db.css",
-    "main.js": "/bee-music/static/js/main.0c5776a2.js",
+    "main.js": "/bee-music/static/js/main.ad045088.js",
     "index.html": "/bee-music/index.html",
     "main.3ab351db.css.map": "/bee-music/static/css/main.3ab351db.css.map",
-    "main.0c5776a2.js.map": "/bee-music/static/js/main.0c5776a2.js.map"
+    "main.ad045088.js.map": "/bee-music/static/js/main.ad045088.js.map"
   },
   "entrypoints": [
     "static/css/main.3ab351db.css",
-    "static/js/main.0c5776a2.js"
+    "static/js/main.ad045088.js"
   ]
 }
