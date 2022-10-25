@@ -1,0 +1,447 @@
+[
+    {
+        "id": 1,
+        "name": "E.M.A",
+        "artist": "Hiroyuki Sawano",
+        "language": "Japanese",
+        "album": "Attack on Titan (Original Soundtrack)",
+        "imageLink": "/assets/images/E.M.A.jpg",
+        "songLink": "/assets/songs/E.M.A.mp3",
+        "tag": "Anime Songs",
+        "monthlyListener": 65165
+    },
+    {
+        "id": 2,
+        "name": "The Reluctant Heroes",
+        "artist": "Hiroyuki Sawano",
+        "language": "Japanese",
+        "album": "Attack on Titan (Original Soundtrack)",
+        "imageLink": "/assets/images/the-reluctant-heroes.jpg",
+        "songLink": "/assets/songs/the-reluctant-heroes.mp3",
+        "tag": "Anime Songs"
+    },
+    {
+        "id": 3,
+        "name": "Counter Attack-Mankind",
+        "artist": "Hiroyuki Sawano",
+        "language": "Japanese",
+        "album": "Attack on Titan (Original Soundtrack)",
+        "imageLink": "/assets/images/counter-attack-mankind.jpg",
+        "songLink": "/assets/songs/counter-attack-mankind.mp3",
+        "tag": "Anime Songs"
+    },
+    {
+        "id": 4,
+        "name": "Vogel Im Kafig",
+        "artist": "Hiroyuki Sawano",
+        "language": "Japanese",
+        "album": "Attack on Titan (Original Soundtrack)",
+        "imageLink": "/assets/images/vogel-im-kafig.jpg",
+        "songLink": "/assets/songs/vogel-im-kafig.mp3",
+        "tag": "Anime Songs"
+    },
+    {
+        "id": 5,
+        "name": "Call Your Name",
+        "artist": "Hiroyuki Sawano",
+        "language": "Japanese",
+        "album": "Attack on Titan (Original Soundtrack)",
+        "imageLink": "/assets/images/call-your-name.jpg",
+        "songLink": "/assets/songs/call-your-name.mp3",
+        "tag": "Anime Songs"
+    },
+    {
+        "id": 6,
+        "name": "Light & Shadow",
+        "artist": "Hiroyuki Sawano, Gemie",
+        "language": "English",
+        "album": "League of Legends",
+        "imageLink": "/assets/images/light-&-shadow.jpg",
+        "songLink": "/assets/songs/light-&-shadow.mp3",
+        "tag": "Game Songs"
+    },
+    {
+        "id": 7,
+        "name": "Everything Goes On",
+        "artist": "Porter Robinson",
+        "language": "English",
+        "album": "League of Legends",
+        "imageLink": "/assets/images/everything-goes-on.jpg",
+        "songLink": "/assets/songs/everything-goes-on.mp3",
+        "tag": "Game Songs"
+    },
+    {
+        "id": 8,
+        "name": "Warriors",
+        "artist": "Imagine Dragons",
+        "language": "English",
+        "album": "League of Legends",
+        "imageLink": "/assets/images/warriors.jpg",
+        "songLink": "/assets/songs/warriors.mp3",
+        "tag": "Game songs"
+    },
+    {
+        "id": 9,
+        "name": "K/DA - MORE",
+        "artist": "Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine",
+        "language": "English",
+        "album": "League of Legends",
+        "imageLink": "/assets/images/kda-more.jpg",
+        "songLink": "/assets/songs/kda-more.mp3",
+        "tag": "Game Songs"
+    },
+    {
+        "id": 10,
+        "name": "RISE",
+        "artist": "The Glitch Mob, Mako, The Word Alive",
+        "language": "English",
+        "album": "League of Legends",
+        "imageLink": "/assets/images/rise.jpg",
+        "songLink": "/assets/songs/rise.mp3",
+        "tag": "Game Songs"
+    },
+    {
+        "id": 11,
+        "name": "Legends Never Die",
+        "artist": "Against The Current",
+        "language": "English",
+        "album": "League of Legends",
+        "imageLink": "/assets/images/legends-never-die.jpg",
+        "songLink": "/assets/songs/legends-never-die.mp3",
+        "tag": "Game Songs",
+        "monthlyListener": 36558
+    },
+    {
+        "id": 12,
+        "name": "Infectious",
+        "artist": "Tobu",
+        "language": "English",
+        "album": "Top Songs of Tobu",
+        "imageLink": "/assets/images/infectious.jpg",
+        "songLink": "/assets/songs/infectious.mp3",
+        "tag": "EDM"
+    },
+    {
+        "id": 13,
+        "name": "Cloud 9",
+        "artist": "Itro, Tobu",
+        "language": "English",
+        "album": "Top Songs of Tobu",
+        "imageLink": "/assets/images/cloud-9.jpg",
+        "songLink": "/assets/songs/cloud-9.mp3",
+        "tag": "EDM"
+    },
+    {
+        "id": 14,
+        "name": "Candyland",
+        "artist": "Tobu",
+        "language": "English",
+        "album": "Top Songs of Tobu",
+        "imageLink": "/assets/images/candyland.jpg",
+        "songLink": "/assets/songs/candyland.mp3",
+        "tag": "EDM"
+    },
+    {
+        "id": 15,
+        "name": "Seven",
+        "artist": "Tobu",
+        "language": "English",
+        "album": "Top Songs of Tobu",
+        "imageLink": "/assets/images/seven.jpg",
+        "songLink": "/assets/songs/seven.mp3",
+        "tag": "EDM"
+    },
+    {
+        "id": 16,
+        "name": "Sunburst",
+        "artist": "Tobu, Itro",
+        "language": "English",
+        "album": "Top Songs of Tobu",
+        "imageLink": "/assets/images/sunburst.jpg",
+        "songLink": "/assets/songs/sunburst.mp3",
+        "tag": "EDM"
+    },
+    {
+        "id": 17,
+        "name": "Infinity",
+        "artist": "Jaymes Young",
+        "language": "English",
+        "album": "Tik Tok Hits",
+        "imageLink": "/assets/images/infinity.jpg",
+        "songLink": "/assets/songs/infinity.mp3",
+        "tag": "Tiktok Songs"
+    },
+    {
+        "id": 18,
+        "name": "Enemy",
+        "artist": "Imagine Dragons, J.I.D",
+        "language": "English",
+        "album": "League of Legends",
+        "imageLink": "/assets/images/enemy.jpg",
+        "songLink": "/assets/songs/enemy.mp3",
+        "tag": "Game Songs",
+        "monthlyListener": 46466
+    },
+    {
+        "id": 19,
+        "name": "Home (Blaze U Remix)",
+        "artist": "Thimlife, Bibiane Z",
+        "language": "English",
+        "album": "Tik Tok Hits",
+        "imageLink": "/assets/images/home.jpg",
+        "songLink": "/assets/songs/home.mp3",
+        "tag": "Tiktok Songs"
+    },
+    {
+        "id": 20,
+        "name": "Telescope",
+        "artist": "Tim Legend, Transviolet",
+        "language": "English",
+        "album": "Tik Tok Hits",
+        "imageLink": "/assets/images/telescope.jpg",
+        "songLink": "/assets/songs/telescope.mp3",
+        "tag": "Tiktok Songs"
+    },
+    {
+        "id": 21,
+        "name": "Monsters",
+        "artist": "Katie Sky",
+        "language": "English",
+        "album": "Tik Tok Hits",
+        "imageLink": "/assets/images/monsters.jpg",
+        "songLink": "/assets/songs/monsters.mp3",
+        "tag": "Tiktok Songs"
+    },
+    {
+        "id": 22,
+        "name": "Breathe",
+        "artist": "Mackenzie Ziegler",
+        "language": "English",
+        "album": "Tik Tok Hits",
+        "imageLink": "/assets/images/breathe.jpg",
+        "songLink": "/assets/songs/breathe.mp3",
+        "tag": "Tiktok Songs"
+    },
+    {
+        "id": 23,
+        "name": "Let Me Show You A Big Move",
+        "artist": "Ryan.B",
+        "language": "Chinese",
+        "album": "Chinese Tiktok",
+        "imageLink": "/assets/images/let-me-show-you-a-big-move.jpg",
+        "songLink": "/assets/songs/let-me-show-you-a-big-move.mp3",
+        "tag": "Tiktok Songs"
+    },
+    {
+        "id": 24,
+        "name": "Hani Baby",
+        "artist": "南征北戰NZBZ",
+        "language": "Chinese",
+        "album": "Chinese Tiktok",
+        "imageLink": "/assets/images/hani-baby.jpg",
+        "songLink": "/assets/songs/hani-baby.mp3",
+        "tag": "Tiktok Songs"
+    },
+    {
+        "id": 25,
+        "name": "Move Up",
+        "artist": "Mr.Polska",
+        "language": "English",
+        "album": "Chinese Tiktok",
+        "imageLink": "/assets/images/move-up.jpg",
+        "songLink": "/assets/songs/move-up.mp3",
+        "tag": "Tiktok Songs"
+    },
+    {
+        "id": 26,
+        "name": "Fei Niao He Chan",
+        "artist": "Ren Ran",
+        "language": "Chinese",
+        "album": "Chinese Tiktok",
+        "imageLink": "/assets/images/fei-niao-he-chan.jpg",
+        "songLink": "/assets/songs/fei-niao-he-chan.mp3",
+        "tag": "Tiktok Songs"
+    },
+    {
+        "id": 27,
+        "name": "Zui Jin Hai Hao Ma",
+        "artist": "S.H.E",
+        "language": "Chinese",
+        "album": "Chinese Tiktok",
+        "imageLink": "/assets/images/zui-jin-hai-hao-ma.jpg",
+        "songLink": "/assets/songs/zui-jin-hai-hao-ma.mp3",
+        "tag": "Tiktok Songs"
+    },
+    {
+        "id": 28,
+        "name": "Stone Block",
+        "artist": "Ha Hyun Woo",
+        "language": "Korean",
+        "album": "Korean TV Drama Hits",
+        "imageLink": "/assets/images/stone-block.jpg",
+        "songLink": "/assets/songs/stone-block.mp3",
+        "tag": "Chill Hits"
+    },
+    {
+        "id": 29,
+        "name": "Start",
+        "artist": "Gaho",
+        "language": "Korean",
+        "album": "Korean TV Drama Hits",
+        "imageLink": "/assets/images/start.jpg",
+        "songLink": "/assets/songs/start.mp3",
+        "tag": "Chill Hits"
+    },
+    {
+        "id": 30,
+        "name": "If You Were Me",
+        "artist": "JIMIN, YuNa",
+        "language": "Korean",
+        "album": "Korean TV Drama Hits",
+        "imageLink": "/assets/images/if-you-were-me.jpg",
+        "songLink": "/assets/songs/if-you-were-me.mp3",
+        "tag": "Chill Hits"
+    },
+    {
+        "id": 31,
+        "name": "Where Are U",
+        "artist": "Jung Joon Young",
+        "language": "Korean",
+        "album": "Korean TV Drama Hits",
+        "imageLink": "/assets/images/where-are-u.jpg",
+        "songLink": "/assets/songs/where-are-u.mp3",
+        "tag": "Chill Hits"
+    },
+    {
+        "id": 32,
+        "name": "Talk Love",
+        "artist": "K.will",
+        "language": "Korean",
+        "album": "Korean TV Drama Hits",
+        "imageLink": "/assets/images/talk-love.jpg",
+        "songLink": "/assets/songs/talk-love.mp3",
+        "tag": "Chill Hits"
+    },
+    {
+        "id": 33,
+        "name": "Centimeter",
+        "artist": "The Peggies",
+        "language": "Japanese",
+        "album": "Anime Openings",
+        "imageLink": "/assets/images/centimeter.jpg",
+        "songLink": "/assets/songs/centimeter.mp3",
+        "tag": "Anime Songs"
+    },
+    {
+        "id": 34,
+        "name": "Black Catcher",
+        "artist": "Vickeblanka",
+        "language": "Japanese",
+        "album": "Anime Openings",
+        "imageLink": "/assets/images/black-catcher.jpg",
+        "songLink": "/assets/songs/black-catcher.mp3",
+        "tag": "Anime Songs"
+    },
+    {
+        "id": 35,
+        "name": "Kaikai Kitan",
+        "artist": "Eve",
+        "language": "Japanese",
+        "album": "Anime Openings",
+        "imageLink": "/assets/images/kaikai-kitan.jpg",
+        "songLink": "/assets/songs/kaikai-kitan.mp3",
+        "tag": "Anime Songs"
+    },
+    {
+        "id": 36,
+        "name": "Inferno",
+        "artist": "Mrs. GREEN APPLE",
+        "language": "Japanese",
+        "album": "Anime Openings",
+        "imageLink": "/assets/images/inferno.jpg",
+        "songLink": "/assets/songs/inferno.mp3",
+        "tag": "Anime Songs"
+    },
+    {
+        "id": 37,
+        "name": "Crossing Field",
+        "artist": "LiSA",
+        "language": "Japanese",
+        "album": "Anime Openings",
+        "imageLink": "/assets/images/crossing-field.jpg",
+        "songLink": "/assets/songs/crossing-field.mp3",
+        "tag": "Anime Songs"
+    },
+    {
+        "id": 38,
+        "name": "Silhouette",
+        "artist": "KANA-BOON",
+        "language": "Japanese",
+        "album": "Anime Openings",
+        "imageLink": "/assets/images/silhouette.jpg",
+        "songLink": "/assets/songs/silhouette.mp3",
+        "tag": "Anime Songs"
+    },
+    {
+        "id": 39,
+        "name": "Shinzou wo Sasageyo",
+        "artist": "Linked Horizon",
+        "language": "Japanese",
+        "album": "Anime Openings",
+        "imageLink": "/assets/images/shinzou-wo-sasageyo.jpg",
+        "songLink": "/assets/songs/shinzou-wo-sasageyo.mp3",
+        "tag": "Anime Songs"
+    },
+    {
+        "id": 40,
+        "name": "Gurenge",
+        "artist": "LiSA",
+        "language": "Japanese",
+        "album": "Anime Openings",
+        "imageLink": "/assets/images/gurenge.jpg",
+        "songLink": "/assets/songs/gurenge.mp3",
+        "tag": "Anime Songs"
+    },
+    {
+        "id": 41,
+        "name": "Dance In The Game",
+        "artist": "ZAQ",
+        "language": "Japanese",
+        "album": "Anime Openings",
+        "imageLink": "/assets/images/dance-in-the-game.jpg",
+        "songLink": "/assets/songs/dance-in-the-game.mp3",
+        "tag": "Anime Songs"
+    },
+    {
+        "id": 42,
+        "name": "Gotoubun no Katachi",
+        "artist": "Nakanoke no Itsutsugo",
+        "language": "Japanese",
+        "album": "Anime Openings",
+        "imageLink": "/assets/images/gotoubun-no-katachi.jpg",
+        "songLink": "/assets/songs/gotoubun-no-katachi.mp3",
+        "tag": "Anime Songs"
+    },
+    {
+        "id": 43,
+        "name": "Everything I Need",
+        "artist": "Skylar Grey",
+        "language": "English",
+        "album": null,
+        "imageLink": "/assets/images/everything-i-need.jpg",
+        "songLink": "/assets/songs/everything-i-need.mp3",
+        "tag": "Chill Hits",
+        "monthlyListener": 25448
+    },
+    {
+        "id": 44,
+        "name": "Akuma no Ko",
+        "artist": "Ai Higuchi",
+        "language": "Japanese",
+        "album": null,
+        "imageLink": "/assets/images/akuma-no-ko.jpg",
+        "songLink": "/assets/songs/akuma-no-ko.mp3",
+        "tag": "Anime Songs",
+        "monthlyListener": 15055
+    }
+]
