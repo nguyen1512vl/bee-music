@@ -5,8 +5,8 @@
         "artist": "Hiroyuki Sawano",
         "language": "Japanese",
         "album": "Attack on Titan (Original Soundtrack)",
-        "imageLink": "/assets/images/E.M.A.jpg",
-        "songLink": "/assets/songs/E.M.A.mp3",
+        "imageLink": "/bee-music/assets/images/E.M.A.jpg",
+        "songLink": "/bee-music/assets/songs/E.M.A.mp3",
         "tag": "Anime Songs",
         "monthlyListener": 65165
     },
@@ -16,8 +16,8 @@
         "artist": "Hiroyuki Sawano",
         "language": "Japanese",
         "album": "Attack on Titan (Original Soundtrack)",
-        "imageLink": "/assets/images/the-reluctant-heroes.jpg",
-        "songLink": "/assets/songs/the-reluctant-heroes.mp3",
+        "imageLink": "/bee-music/assets/images/the-reluctant-heroes.jpg",
+        "songLink": "/bee-music/assets/songs/the-reluctant-heroes.mp3",
         "tag": "Anime Songs"
     },
     {
@@ -26,8 +26,8 @@
         "artist": "Hiroyuki Sawano",
         "language": "Japanese",
         "album": "Attack on Titan (Original Soundtrack)",
-        "imageLink": "/assets/images/counter-attack-mankind.jpg",
-        "songLink": "/assets/songs/counter-attack-mankind.mp3",
+        "imageLink": "/bee-music/assets/images/counter-attack-mankind.jpg",
+        "songLink": "/bee-music/assets/songs/counter-attack-mankind.mp3",
         "tag": "Anime Songs"
     },
     {
@@ -36,8 +36,8 @@
         "artist": "Hiroyuki Sawano",
         "language": "Japanese",
         "album": "Attack on Titan (Original Soundtrack)",
-        "imageLink": "/assets/images/vogel-im-kafig.jpg",
-        "songLink": "/assets/songs/vogel-im-kafig.mp3",
+        "imageLink": "/bee-music/assets/images/vogel-im-kafig.jpg",
+        "songLink": "/bee-music/assets/songs/vogel-im-kafig.mp3",
         "tag": "Anime Songs"
     },
     {
@@ -46,8 +46,8 @@
         "artist": "Hiroyuki Sawano",
         "language": "Japanese",
         "album": "Attack on Titan (Original Soundtrack)",
-        "imageLink": "/assets/images/call-your-name.jpg",
-        "songLink": "/assets/songs/call-your-name.mp3",
+        "imageLink": "/bee-music/assets/images/call-your-name.jpg",
+        "songLink": "/bee-music/assets/songs/call-your-name.mp3",
         "tag": "Anime Songs"
     },
     {
@@ -56,8 +56,8 @@
         "artist": "Hiroyuki Sawano, Gemie",
         "language": "English",
         "album": "League of Legends",
-        "imageLink": "/assets/images/light-&-shadow.jpg",
-        "songLink": "/assets/songs/light-&-shadow.mp3",
+        "imageLink": "/bee-music/assets/images/light-&-shadow.jpg",
+        "songLink": "/bee-music/assets/songs/light-&-shadow.mp3",
         "tag": "Game Songs"
     },
     {
@@ -66,8 +66,8 @@
         "artist": "Porter Robinson",
         "language": "English",
         "album": "League of Legends",
-        "imageLink": "/assets/images/everything-goes-on.jpg",
-        "songLink": "/assets/songs/everything-goes-on.mp3",
+        "imageLink": "/bee-music/assets/images/everything-goes-on.jpg",
+        "songLink": "/bee-music/assets/songs/everything-goes-on.mp3",
         "tag": "Game Songs"
     },
     {
@@ -76,8 +76,8 @@
         "artist": "Imagine Dragons",
         "language": "English",
         "album": "League of Legends",
-        "imageLink": "/assets/images/warriors.jpg",
-        "songLink": "/assets/songs/warriors.mp3",
+        "imageLink": "/bee-music/assets/images/warriors.jpg",
+        "songLink": "/bee-music/assets/songs/warriors.mp3",
         "tag": "Game songs"
     },
     {
@@ -86,8 +86,8 @@
         "artist": "Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine",
         "language": "English",
         "album": "League of Legends",
-        "imageLink": "/assets/images/kda-more.jpg",
-        "songLink": "/assets/songs/kda-more.mp3",
+        "imageLink": "/bee-music/assets/images/kda-more.jpg",
+        "songLink": "/bee-music/assets/songs/kda-more.mp3",
         "tag": "Game Songs"
     },
     {
@@ -96,8 +96,8 @@
         "artist": "The Glitch Mob, Mako, The Word Alive",
         "language": "English",
         "album": "League of Legends",
-        "imageLink": "/assets/images/rise.jpg",
-        "songLink": "/assets/songs/rise.mp3",
+        "imageLink": "/bee-music/assets/images/rise.jpg",
+        "songLink": "/bee-music/assets/songs/rise.mp3",
         "tag": "Game Songs"
     },
     {
@@ -106,8 +106,8 @@
         "artist": "Against The Current",
         "language": "English",
         "album": "League of Legends",
-        "imageLink": "/assets/images/legends-never-die.jpg",
-        "songLink": "/assets/songs/legends-never-die.mp3",
+        "imageLink": "/bee-music/assets/images/legends-never-die.jpg",
+        "songLink": "/bee-music/assets/songs/legends-never-die.mp3",
         "tag": "Game Songs",
         "monthlyListener": 36558
     },
@@ -117,8 +117,8 @@
         "artist": "Tobu",
         "language": "English",
         "album": "Top Songs of Tobu",
-        "imageLink": "/assets/images/infectious.jpg",
-        "songLink": "/assets/songs/infectious.mp3",
+        "imageLink": "/bee-music/assets/images/infectious.jpg",
+        "songLink": "/bee-music/assets/songs/infectious.mp3",
         "tag": "EDM"
     },
     {
@@ -127,8 +127,8 @@
         "artist": "Itro, Tobu",
         "language": "English",
         "album": "Top Songs of Tobu",
-        "imageLink": "/assets/images/cloud-9.jpg",
-        "songLink": "/assets/songs/cloud-9.mp3",
+        "imageLink": "/bee-music/assets/images/cloud-9.jpg",
+        "songLink": "/bee-music/assets/songs/cloud-9.mp3",
         "tag": "EDM"
     },
     {
@@ -137,8 +137,8 @@
         "artist": "Tobu",
         "language": "English",
         "album": "Top Songs of Tobu",
-        "imageLink": "/assets/images/candyland.jpg",
-        "songLink": "/assets/songs/candyland.mp3",
+        "imageLink": "/bee-music/assets/images/candyland.jpg",
+        "songLink": "/bee-music/assets/songs/candyland.mp3",
         "tag": "EDM"
     },
     {
@@ -147,8 +147,8 @@
         "artist": "Tobu",
         "language": "English",
         "album": "Top Songs of Tobu",
-        "imageLink": "/assets/images/seven.jpg",
-        "songLink": "/assets/songs/seven.mp3",
+        "imageLink": "/bee-music/assets/images/seven.jpg",
+        "songLink": "/bee-music/assets/songs/seven.mp3",
         "tag": "EDM"
     },
     {
@@ -157,8 +157,8 @@
         "artist": "Tobu, Itro",
         "language": "English",
         "album": "Top Songs of Tobu",
-        "imageLink": "/assets/images/sunburst.jpg",
-        "songLink": "/assets/songs/sunburst.mp3",
+        "imageLink": "/bee-music/assets/images/sunburst.jpg",
+        "songLink": "/bee-music/assets/songs/sunburst.mp3",
         "tag": "EDM"
     },
     {
@@ -167,8 +167,8 @@
         "artist": "Jaymes Young",
         "language": "English",
         "album": "Tik Tok Hits",
-        "imageLink": "/assets/images/infinity.jpg",
-        "songLink": "/assets/songs/infinity.mp3",
+        "imageLink": "/bee-music/assets/images/infinity.jpg",
+        "songLink": "/bee-music/assets/songs/infinity.mp3",
         "tag": "Tiktok Songs"
     },
     {
@@ -177,8 +177,8 @@
         "artist": "Imagine Dragons, J.I.D",
         "language": "English",
         "album": "League of Legends",
-        "imageLink": "/assets/images/enemy.jpg",
-        "songLink": "/assets/songs/enemy.mp3",
+        "imageLink": "/bee-music/assets/images/enemy.jpg",
+        "songLink": "/bee-music/assets/songs/enemy.mp3",
         "tag": "Game Songs",
         "monthlyListener": 46466
     },
@@ -188,8 +188,8 @@
         "artist": "Thimlife, Bibiane Z",
         "language": "English",
         "album": "Tik Tok Hits",
-        "imageLink": "/assets/images/home.jpg",
-        "songLink": "/assets/songs/home.mp3",
+        "imageLink": "/bee-music/assets/images/home.jpg",
+        "songLink": "/bee-music/assets/songs/home.mp3",
         "tag": "Tiktok Songs"
     },
     {
@@ -198,8 +198,8 @@
         "artist": "Tim Legend, Transviolet",
         "language": "English",
         "album": "Tik Tok Hits",
-        "imageLink": "/assets/images/telescope.jpg",
-        "songLink": "/assets/songs/telescope.mp3",
+        "imageLink": "/bee-music/assets/images/telescope.jpg",
+        "songLink": "/bee-music/assets/songs/telescope.mp3",
         "tag": "Tiktok Songs"
     },
     {
@@ -208,8 +208,8 @@
         "artist": "Katie Sky",
         "language": "English",
         "album": "Tik Tok Hits",
-        "imageLink": "/assets/images/monsters.jpg",
-        "songLink": "/assets/songs/monsters.mp3",
+        "imageLink": "/bee-music/assets/images/monsters.jpg",
+        "songLink": "/bee-music/assets/songs/monsters.mp3",
         "tag": "Tiktok Songs"
     },
     {
@@ -218,8 +218,8 @@
         "artist": "Mackenzie Ziegler",
         "language": "English",
         "album": "Tik Tok Hits",
-        "imageLink": "/assets/images/breathe.jpg",
-        "songLink": "/assets/songs/breathe.mp3",
+        "imageLink": "/bee-music/assets/images/breathe.jpg",
+        "songLink": "/bee-music/assets/songs/breathe.mp3",
         "tag": "Tiktok Songs"
     },
     {
@@ -228,8 +228,8 @@
         "artist": "Ryan.B",
         "language": "Chinese",
         "album": "Chinese Tiktok",
-        "imageLink": "/assets/images/let-me-show-you-a-big-move.jpg",
-        "songLink": "/assets/songs/let-me-show-you-a-big-move.mp3",
+        "imageLink": "/bee-music/assets/images/let-me-show-you-a-big-move.jpg",
+        "songLink": "/bee-music/assets/songs/let-me-show-you-a-big-move.mp3",
         "tag": "Tiktok Songs"
     },
     {
@@ -238,8 +238,8 @@
         "artist": "南征北戰NZBZ",
         "language": "Chinese",
         "album": "Chinese Tiktok",
-        "imageLink": "/assets/images/hani-baby.jpg",
-        "songLink": "/assets/songs/hani-baby.mp3",
+        "imageLink": "/bee-music/assets/images/hani-baby.jpg",
+        "songLink": "/bee-music/assets/songs/hani-baby.mp3",
         "tag": "Tiktok Songs"
     },
     {
@@ -248,8 +248,8 @@
         "artist": "Mr.Polska",
         "language": "English",
         "album": "Chinese Tiktok",
-        "imageLink": "/assets/images/move-up.jpg",
-        "songLink": "/assets/songs/move-up.mp3",
+        "imageLink": "/bee-music/assets/images/move-up.jpg",
+        "songLink": "/bee-music/assets/songs/move-up.mp3",
         "tag": "Tiktok Songs"
     },
     {
@@ -258,8 +258,8 @@
         "artist": "Ren Ran",
         "language": "Chinese",
         "album": "Chinese Tiktok",
-        "imageLink": "/assets/images/fei-niao-he-chan.jpg",
-        "songLink": "/assets/songs/fei-niao-he-chan.mp3",
+        "imageLink": "/bee-music/assets/images/fei-niao-he-chan.jpg",
+        "songLink": "/bee-music/assets/songs/fei-niao-he-chan.mp3",
         "tag": "Tiktok Songs"
     },
     {
@@ -268,8 +268,8 @@
         "artist": "S.H.E",
         "language": "Chinese",
         "album": "Chinese Tiktok",
-        "imageLink": "/assets/images/zui-jin-hai-hao-ma.jpg",
-        "songLink": "/assets/songs/zui-jin-hai-hao-ma.mp3",
+        "imageLink": "/bee-music/assets/images/zui-jin-hai-hao-ma.jpg",
+        "songLink": "/bee-music/assets/songs/zui-jin-hai-hao-ma.mp3",
         "tag": "Tiktok Songs"
     },
     {
@@ -278,8 +278,8 @@
         "artist": "Ha Hyun Woo",
         "language": "Korean",
         "album": "Korean TV Drama Hits",
-        "imageLink": "/assets/images/stone-block.jpg",
-        "songLink": "/assets/songs/stone-block.mp3",
+        "imageLink": "/bee-music/assets/images/stone-block.jpg",
+        "songLink": "/bee-music/assets/songs/stone-block.mp3",
         "tag": "Chill Hits"
     },
     {
@@ -288,8 +288,8 @@
         "artist": "Gaho",
         "language": "Korean",
         "album": "Korean TV Drama Hits",
-        "imageLink": "/assets/images/start.jpg",
-        "songLink": "/assets/songs/start.mp3",
+        "imageLink": "/bee-music/assets/images/start.jpg",
+        "songLink": "/bee-music/assets/songs/start.mp3",
         "tag": "Chill Hits"
     },
     {
@@ -298,8 +298,8 @@
         "artist": "JIMIN, YuNa",
         "language": "Korean",
         "album": "Korean TV Drama Hits",
-        "imageLink": "/assets/images/if-you-were-me.jpg",
-        "songLink": "/assets/songs/if-you-were-me.mp3",
+        "imageLink": "/bee-music/assets/images/if-you-were-me.jpg",
+        "songLink": "/bee-music/assets/songs/if-you-were-me.mp3",
         "tag": "Chill Hits"
     },
     {
@@ -308,8 +308,8 @@
         "artist": "Jung Joon Young",
         "language": "Korean",
         "album": "Korean TV Drama Hits",
-        "imageLink": "/assets/images/where-are-u.jpg",
-        "songLink": "/assets/songs/where-are-u.mp3",
+        "imageLink": "/bee-music/assets/images/where-are-u.jpg",
+        "songLink": "/bee-music/assets/songs/where-are-u.mp3",
         "tag": "Chill Hits"
     },
     {
@@ -318,8 +318,8 @@
         "artist": "K.will",
         "language": "Korean",
         "album": "Korean TV Drama Hits",
-        "imageLink": "/assets/images/talk-love.jpg",
-        "songLink": "/assets/songs/talk-love.mp3",
+        "imageLink": "/bee-music/assets/images/talk-love.jpg",
+        "songLink": "/bee-music/assets/songs/talk-love.mp3",
         "tag": "Chill Hits"
     },
     {
@@ -328,8 +328,8 @@
         "artist": "The Peggies",
         "language": "Japanese",
         "album": "Anime Openings",
-        "imageLink": "/assets/images/centimeter.jpg",
-        "songLink": "/assets/songs/centimeter.mp3",
+        "imageLink": "/bee-music/assets/images/centimeter.jpg",
+        "songLink": "/bee-music/assets/songs/centimeter.mp3",
         "tag": "Anime Songs"
     },
     {
@@ -338,8 +338,8 @@
         "artist": "Vickeblanka",
         "language": "Japanese",
         "album": "Anime Openings",
-        "imageLink": "/assets/images/black-catcher.jpg",
-        "songLink": "/assets/songs/black-catcher.mp3",
+        "imageLink": "/bee-music/assets/images/black-catcher.jpg",
+        "songLink": "/bee-music/assets/songs/black-catcher.mp3",
         "tag": "Anime Songs"
     },
     {
@@ -348,8 +348,8 @@
         "artist": "Eve",
         "language": "Japanese",
         "album": "Anime Openings",
-        "imageLink": "/assets/images/kaikai-kitan.jpg",
-        "songLink": "/assets/songs/kaikai-kitan.mp3",
+        "imageLink": "/bee-music/assets/images/kaikai-kitan.jpg",
+        "songLink": "/bee-music/assets/songs/kaikai-kitan.mp3",
         "tag": "Anime Songs"
     },
     {
@@ -358,8 +358,8 @@
         "artist": "Mrs. GREEN APPLE",
         "language": "Japanese",
         "album": "Anime Openings",
-        "imageLink": "/assets/images/inferno.jpg",
-        "songLink": "/assets/songs/inferno.mp3",
+        "imageLink": "/bee-music/assets/images/inferno.jpg",
+        "songLink": "/bee-music/assets/songs/inferno.mp3",
         "tag": "Anime Songs"
     },
     {
@@ -368,8 +368,8 @@
         "artist": "LiSA",
         "language": "Japanese",
         "album": "Anime Openings",
-        "imageLink": "/assets/images/crossing-field.jpg",
-        "songLink": "/assets/songs/crossing-field.mp3",
+        "imageLink": "/bee-music/assets/images/crossing-field.jpg",
+        "songLink": "/bee-music/assets/songs/crossing-field.mp3",
         "tag": "Anime Songs"
     },
     {
@@ -378,8 +378,8 @@
         "artist": "KANA-BOON",
         "language": "Japanese",
         "album": "Anime Openings",
-        "imageLink": "/assets/images/silhouette.jpg",
-        "songLink": "/assets/songs/silhouette.mp3",
+        "imageLink": "/bee-music/assets/images/silhouette.jpg",
+        "songLink": "/bee-music/assets/songs/silhouette.mp3",
         "tag": "Anime Songs"
     },
     {
@@ -388,8 +388,8 @@
         "artist": "Linked Horizon",
         "language": "Japanese",
         "album": "Anime Openings",
-        "imageLink": "/assets/images/shinzou-wo-sasageyo.jpg",
-        "songLink": "/assets/songs/shinzou-wo-sasageyo.mp3",
+        "imageLink": "/bee-music/assets/images/shinzou-wo-sasageyo.jpg",
+        "songLink": "/bee-music/assets/songs/shinzou-wo-sasageyo.mp3",
         "tag": "Anime Songs"
     },
     {
@@ -398,8 +398,8 @@
         "artist": "LiSA",
         "language": "Japanese",
         "album": "Anime Openings",
-        "imageLink": "/assets/images/gurenge.jpg",
-        "songLink": "/assets/songs/gurenge.mp3",
+        "imageLink": "/bee-music/assets/images/gurenge.jpg",
+        "songLink": "/bee-music/assets/songs/gurenge.mp3",
         "tag": "Anime Songs"
     },
     {
@@ -408,8 +408,8 @@
         "artist": "ZAQ",
         "language": "Japanese",
         "album": "Anime Openings",
-        "imageLink": "/assets/images/dance-in-the-game.jpg",
-        "songLink": "/assets/songs/dance-in-the-game.mp3",
+        "imageLink": "/bee-music/assets/images/dance-in-the-game.jpg",
+        "songLink": "/bee-music/assets/songs/dance-in-the-game.mp3",
         "tag": "Anime Songs"
     },
     {
@@ -418,8 +418,8 @@
         "artist": "Nakanoke no Itsutsugo",
         "language": "Japanese",
         "album": "Anime Openings",
-        "imageLink": "/assets/images/gotoubun-no-katachi.jpg",
-        "songLink": "/assets/songs/gotoubun-no-katachi.mp3",
+        "imageLink": "/bee-music/assets/images/gotoubun-no-katachi.jpg",
+        "songLink": "/bee-music/assets/songs/gotoubun-no-katachi.mp3",
         "tag": "Anime Songs"
     },
     {
@@ -428,8 +428,8 @@
         "artist": "Skylar Grey",
         "language": "English",
         "album": null,
-        "imageLink": "/assets/images/everything-i-need.jpg",
-        "songLink": "/assets/songs/everything-i-need.mp3",
+        "imageLink": "/bee-music/assets/images/everything-i-need.jpg",
+        "songLink": "/bee-music/assets/songs/everything-i-need.mp3",
         "tag": "Chill Hits",
         "monthlyListener": 25448
     },
@@ -439,8 +439,8 @@
         "artist": "Ai Higuchi",
         "language": "Japanese",
         "album": null,
-        "imageLink": "/assets/images/akuma-no-ko.jpg",
-        "songLink": "/assets/songs/akuma-no-ko.mp3",
+        "imageLink": "/bee-music/assets/images/akuma-no-ko.jpg",
+        "songLink": "/bee-music/assets/songs/akuma-no-ko.mp3",
         "tag": "Anime Songs",
         "monthlyListener": 15055
     }

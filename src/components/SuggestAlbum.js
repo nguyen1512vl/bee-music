@@ -18,7 +18,7 @@ albums = albums.map((album, index) => {
   return {
     id: index,
     name: album,
-    albumImage: `/assets/images/${album.replace('(','').replace(')','').replace(/\s+/g, '-').toLowerCase()}.jpg`
+    albumImage: `/bee-music/assets/images/${album.replace('(','').replace(')','').replace(/\s+/g, '-').toLowerCase()}.jpg`
   }
 })
 

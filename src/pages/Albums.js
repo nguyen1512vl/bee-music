@@ -19,13 +19,13 @@ albums = albums.map((album, index) => {
   return {
     id: index,
     name: album,
-    albumImage: `/assets/images/${album.replace('(','').replace(')','').replace(/\s+/g, '-').toLowerCase()}.jpg`
+    albumImage: `/bee-music/assets/images/${album.replace('(','').replace(')','').replace(/\s+/g, '-').toLowerCase()}.jpg`
   }
 })
 
 const albumArray = albums.map(album => songData.filter(song => song.album === album.name))
 
-
+console.log(process.env.PUBLIC_URL)
 export default function Albums() {
   const { setAlbumList } = useContext(playerContext)
   let navigate = useNavigate()

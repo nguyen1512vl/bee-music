@@ -9,7 +9,7 @@ songData.forEach(song => {
     if (song.monthlyListener) {
         trendingSongs.push({
             ...song,
-            trendingImageLink: `/assets/images/${song.name.replace('(','').replace(')','').replace(/\s+/g, '-').toLowerCase()}-trending.jpg`
+            trendingImageLink: `/bee-music/assets/images/${song.name.replace('(','').replace(')','').replace(/\s+/g, '-').toLowerCase()}-trending.jpg`
         })
     }
 })

@@ -78,7 +78,7 @@ const yourCollectionItems = [
 ]
 
 const user = {
-  avatar: '/assets/images/img1.jpg',
+  avatar: '/bee-music/assets/images/img1.jpg',
   name: 'Nguyen Nguyen'
 }
 

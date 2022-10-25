@@ -34,7 +34,7 @@ for(let i = 0; i < artistArray.length; i++) {
 }
 
 artists = artistArray.map((arr, index) => {
-  const artistImage = `/assets/images/${arr[0].artist.split(', ')[0].replace('(','').replace(')','').replace(/\s+/g, '-').toLowerCase()}.jpg`
+  const artistImage = `/bee-music/assets/images/${arr[0].artist.split(', ')[0].replace('(','').replace(')','').replace(/\s+/g, '-').toLowerCase()}.jpg`
   
   return {
     id: index,

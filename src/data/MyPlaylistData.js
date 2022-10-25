@@ -5,8 +5,8 @@ export const myPlaylist = [
         "artist": "Skylar Grey",
         "language": "English",
         "album": null,
-        "imageLink": "/assets/images/everything-i-need.jpg",
-        "songLink": "/assets/songs/everything-i-need.mp3",
+        "imageLink": "/bee-music/assets/images/everything-i-need.jpg",
+        "songLink": "/bee-music/assets/songs/everything-i-need.mp3",
         "tag": "Chill Hits",
         "monthlyListener": 25448
     },
@@ -16,8 +16,8 @@ export const myPlaylist = [
         "artist": "Eve",
         "language": "Japanese",
         "album": "Anime Openings",
-        "imageLink": "/assets/images/kaikai-kitan.jpg",
-        "songLink": "/assets/songs/kaikai-kitan.mp3",
+        "imageLink": "/bee-music/assets/images/kaikai-kitan.jpg",
+        "songLink": "/bee-music/assets/songs/kaikai-kitan.mp3",
         "tag": "Anime Songs"
     },
     {
@@ -26,8 +26,8 @@ export const myPlaylist = [
         "artist": "南征北戰NZBZ",
         "language": "Chinese",
         "album": "Chinese Tiktok",
-        "imageLink": "/assets/images/hani-baby.jpg",
-        "songLink": "/assets/songs/hani-baby.mp3",
+        "imageLink": "/bee-music/assets/images/hani-baby.jpg",
+        "songLink": "/bee-music/assets/songs/hani-baby.mp3",
         "tag": "Tiktok Songs"
     },
     {
@@ -36,8 +36,8 @@ export const myPlaylist = [
         "artist": "Jung Joon Young",
         "language": "Korean",
         "album": "Korean TV Drama Hits",
-        "imageLink": "/assets/images/where-are-u.jpg",
-        "songLink": "/assets/songs/where-are-u.mp3",
+        "imageLink": "/bee-music/assets/images/where-are-u.jpg",
+        "songLink": "/bee-music/assets/songs/where-are-u.mp3",
         "tag": "Chill Hits"
     },
     {
@@ -46,8 +46,8 @@ export const myPlaylist = [
         "artist": "Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine",
         "language": "English",
         "album": "League of Legends",
-        "imageLink": "/assets/images/kda-more.jpg",
-        "songLink": "/assets/songs/kda-more.mp3"
+        "imageLink": "/bee-music/assets/images/kda-more.jpg",
+        "songLink": "/bee-music/assets/songs/kda-more.mp3"
     },
 ]
 
