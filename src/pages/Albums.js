@@ -25,7 +25,6 @@ albums = albums.map((album, index) => {
 
 const albumArray = albums.map(album => songData.filter(song => song.album === album.name))
 
-console.log(process.env.PUBLIC_URL)
 export default function Albums() {
   const { setAlbumList } = useContext(playerContext)
   let navigate = useNavigate()
