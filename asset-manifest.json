@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bee-music/static/css/main.3ab351db.css",
+    "main.js": "/bee-music/static/js/main.c88adcb4.js",
+    "index.html": "/bee-music/index.html",
+    "main.3ab351db.css.map": "/bee-music/static/css/main.3ab351db.css.map",
+    "main.c88adcb4.js.map": "/bee-music/static/js/main.c88adcb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ab351db.css",
+    "static/js/main.c88adcb4.js"
+  ]
+}
